@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>http://localhost:4000/ranjith/html/2017/12/21/test-code-snippets.html</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/ranjith/html/2017/01/31/3-steps-to-setup-website-with-Jalpc.html</loc>
+    </url>
+
+
+    <url>
+        <loc>http://localhost:4000/ranjith/404.html</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/ranjith/blog/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/ranjith/static/css/custom.css</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/ranjith/database/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/ranjith/donate/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/ranjith/feed.xml</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/ranjith/html/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/ranjith/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/ranjith/life/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/ranjith/linux/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/ranjith/mac/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/ranjith/python/</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/ranjith/robots.txt</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/ranjith/search.json</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/ranjith/sitemap.xml</loc>
+    </url>
+
+    <url>
+        <loc>http://localhost:4000/ranjith/assets/css/style.css</loc>
+    </url>
+
+</urlset>
