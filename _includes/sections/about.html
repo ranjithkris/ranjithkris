@@ -1,15 +1,15 @@
 <div class="container" id="i18_about_me">
     <div class="row m-b-lg">
         <div class="col-lg-12 text-center">
-            <div class="navy-line"></div>
+            <div></div>
         </div>
     </div>
          <!--avatar -->
         <div class="col-xs-4">
             <div class="team-member wow zoomIn">
                 <img src="{{ site.author.avatar | prepend: site.baseurl }}" class="img-responsive" alt="">
-                <h1><span data-i18n="about_me.about_me">Ranjith Krishnamurthy</span></h1>
-                <p>Research Associate | Ph.D. Candidate</p>
+                <h1 style="color: #434242"><span data-i18n="about_me.about_me">Ranjith Krishnamurthy</span></h1>
+                <p style="color: #575757">Research Associate | Ph.D. Candidate</p>
 
                 <ul class="list-inline social-icon">
                     {% if site.author.github_username %}
@@ -36,7 +36,7 @@
         </div>
     <div class="col-xs-8">
         <div class="col-lg-12 text-center m-t-lg m-b-lg wow zoomIn">
-            <p style="font-size: 150%"><span data-i18n="about_me.des">{{ site.author.desc }}</span></p>
+            <p style="font-size: 150%; color: #434242"><span data-i18n="about_me.des">{{ site.author.desc }}</span></p>
         </div>
     </div>
         <!-- second two icons
